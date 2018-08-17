@@ -1,0 +1,56 @@
+REPORT-FILE from 05/28/2018 12:54:24.015 - 13:32:11.187  written 05/28/2018 13:32:26
+REALTIME: 2267.161    
+TOTALSUM: 1872446     
+ROISUM: 1872446     
+MAXVAL: 49284       
+LIVETIME: 2257.352    
+cmline0=05/28/2018 12:54:24.015 - 13:32:11.187 
+range=4096
+prena=0
+mcsmode=4
+roimin=0
+roimax=4096
+rtpreset=1000.000    
+ltpreset=300.000     
+evpreset=0           
+swpreset=100         
+rampmode=0
+rampstart=0
+rampstep=1
+rampbin=1
+ramplen=4096
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=1716
+diguse=0
+digval=0
+cycles=10
+sequences=1
+mempart=0
+dwelltime=4
+dwellunit=0
+syncout=f0f
+histlen=0
+autoinc=0 
+;datname=E:\Data\RB10\CCCM\Project Students 2018\Cs-137-A.mcd
+savedata=0
+fmt=asc
+smoothpts=5 
+caluse=3 
+calch00=450.00
+calvl00=356.000000
+calch01=1825.00
+calvl01=1460.000000
+calch02=3207.00
+calvl02=2614.500000
+caloff=4.364330
+calfact=0.776112
+calfact2=1.17789e-005
+calfact3=0
+calunit=keV

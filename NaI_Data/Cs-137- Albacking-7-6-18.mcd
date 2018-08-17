@@ -1,0 +1,56 @@
+REPORT-FILE from 06/07/2018 17:02:11.234 - 17:22:12.515  written 06/07/2018 17:22:32
+REALTIME: 1201.288    
+TOTALSUM: 1430842     
+ROISUM: 1430842     
+MAXVAL: 12783       
+LIVETIME: 1193.191    
+cmline0=06/07/2018 17:02:11.234 - 17:22:12.515 
+range=4096
+prena=0
+mcsmode=4
+roimin=0
+roimax=4096
+rtpreset=1000.000    
+ltpreset=300.000     
+evpreset=0           
+swpreset=100         
+rampmode=0
+rampstart=0
+rampstep=1
+rampbin=1
+ramplen=4096
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=1716
+diguse=0
+digval=0
+cycles=10
+sequences=1
+mempart=0
+dwelltime=4
+dwellunit=0
+syncout=f0f
+histlen=0
+autoinc=0 
+;datname=E:\Data\RB10\CCCM\Project Students 2018\NAI\Cs-137- Albacking-7-6-18.mcd
+savedata=0
+fmt=asc
+smoothpts=5 
+caluse=3 
+calch00=505.00
+calvl00=365.000000
+calch01=1211.00
+calvl01=1173.500000
+calch02=793.00
+calvl02=661.700000
+caloff=-45.102600
+calfact=0.673178
+calfact2=0.000275062
+calfact3=0
+calunit=keV
